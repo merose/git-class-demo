@@ -6,3 +6,7 @@ A demonstration repository for the Git/GitHub class.
 Some more text.
 
 See [the events list](events.md) for US holidays.
+
+## Yet Another Section
+
+This is a test.
